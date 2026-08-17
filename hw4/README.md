@@ -7,7 +7,7 @@
 ## 1. Запустить Kafka
 
 ```bash
-docker compose -f hw4/kafka/docker-compose.yml up -d
+docker compose -f kafka/docker-compose.yml up -d
 ```
 
 ## 2. Создать топик events
